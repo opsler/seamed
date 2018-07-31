@@ -1,0 +1,3 @@
+version: "1"
+domain: releasify.io
+repo: github.com/releasify/seamed
